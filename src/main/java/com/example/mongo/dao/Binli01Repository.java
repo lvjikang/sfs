@@ -14,5 +14,5 @@ public interface Binli01Repository extends MongoRepository<Binli01,String> {
     @Override
     List<Binli01> findAll();
 
-    //cdds
+    //c
 }
